@@ -59,7 +59,7 @@ func main() {
 	inputFile := "img/player.png"
 	outputFile := "img/player_godotified.png"
 	config := godotify.Config{
-		Intensity: 0.8,
+		Intensity: 0.7,
 	}
 
 	//godotify it (intake ur img, process it, and spit it out)
