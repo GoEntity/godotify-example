@@ -1,5 +1,5 @@
-# Example Repo for godotify
-uses `godotify` and `Ebitengine` to output a dotted player image on screen
+# godotify usage example
+use `godotify` and `Ebitengine` to create a simple instance where a dotted player image is displayed
 
 ![image](https://github.com/GoEntity/godotify/assets/116807050/97188b64-63a5-44ed-a757-831bb67502bb)
 ![image](https://github.com/GoEntity/godotify/assets/116807050/6ca7546a-8725-4521-8f28-c3c626054d7d)
